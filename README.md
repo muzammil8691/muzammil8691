@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Muhammad Muzammil
 - 🎓 Graduation in Software Enginnering
 - 👀 I’m interested in ML and AI
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning ML
 - 💞️ I’m looking to collaborate on Machine Learning and Artificial Intelligence
 - 📫 How to reach me:
 - 📨 Email: m.muzammil8691@gmail.com
