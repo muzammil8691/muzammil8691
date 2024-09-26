@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Muhammad Muzammil
-- 🎓 Graduation in Software Enginnering
-- 👀 I’m interested in ML and AI
-- 🌱 I’m currently learning ML
+- 🎓 Graduation in Software Enginnering (CGPA: 3.88/4)
+- 👀 I’m interested in Machine Learning and Artificial Intelligence
+- 🌱 I’m currently enrolled in a course on AI & ML offered by TEVTA (Govt. of Punjab)
 - 💞️ I’m looking to collaborate on Machine Learning and Artificial Intelligence
 - 📫 How to reach me:
 - 📨 Email: m.muzammil8691@gmail.com
