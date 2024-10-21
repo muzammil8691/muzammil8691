@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate on Machine Learning and Artificial Intelligence
 - 📫 How to reach me:
 - 📨 Email: m.muzammil8691@gmail.com
-- ✨ LinkedIn: www.linkedin.com/in/m-muzammil-23jun20/
+- ✨ LinkedIn: www.linkedin.com/in/m-muzammil8691/
 - 😄 Pronouns: his/him
 - ⚡ Fun fact: Not just a programmer, I am also a very good photographer. Instagram: www.instagram.com/m.m_captures/  
 
